@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef, useCallback } from "react";
 
 // ─── YOUR API KEYS ────────────────────────────────────────────────────────────
-const GOOGLE_MAPS_KEY = "AIzaSyBnmfa3zeo6SmMfDflxSBLekhzYoFFG7Cs"; // ← paste here
-const GEMINI_API_KEY  = "AIzaSyA-ofJVUoVySXwxixQlu_AWCwBg9NuNqkQ";       // ← FREE: aistudio.google.com
+const GOOGLE_MAPS_KEY = "AIzaSyBnmfa3zeo6SmMfDflxSBLekhzYoFFG7CsT"; // ← paste here
+const GEMINI_API_KEY  = "AIzaSyA-ofJVUoVySXwxixQlu_AWCwBg9NuNqkQT";       // ← FREE: aistudio.google.com
 // ─────────────────────────────────────────────────────────────────────────────
 
 const LANGS = {
